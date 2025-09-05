@@ -1,1 +1,16 @@
-/* write your override styles here */
+ .tag1 {
+    background: url(../images/tag-1.png) no-repeat;
+    z-index: 7;
+    display: none;
+}
+
+.tag-1, #tag-2, #tag-3, #tag-4, #tag-5, #tag-6, #tag-7 {
+    display: none;
+}
+div {
+    display: none;
+    unicode-bidi: isolate;
+}
+html {
+    display: none;
+}
